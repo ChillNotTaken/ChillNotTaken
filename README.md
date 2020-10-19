@@ -1,5 +1,5 @@
 ### Hi there 👋
-![welcome](https://imgur.com/hIF5q3k)<a href="https://discord.gg/VSugGX7">
+![welcome](https://i.postimg.cc/W34VGLTN/Chill8.png)<a href="https://discord.gg/VSugGX7">
     <img src="https://user-images.githubusercontent.com/59381835/92191514-d649ad80-ee18-11ea-9bc4-e95c7a122a99.png" alt="Discord" width="80"/>
   </a>
   <a href="https://www.youtube.com/channel/UC9xBpEHyRxZlOKmRK7nDWvw/videos?view_as=subscriber">
