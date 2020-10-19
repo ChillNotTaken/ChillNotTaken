@@ -21,6 +21,6 @@ Currently coding discord bots for nitro. Send me a message on discord to discuss
 
 #### About my discord bot
 My discord bot's name is MusicTime. MusicTime has commands ranging from vibing music to as serious features.
-Invite Link : [Invite MusicTime](http://bit.ly/musicchill)
+!Invite Link : [Invite MusicTime](http://bit.ly/musicchill)
 
 ![Click Here](https://github-readme-stats.vercel.app/api?username=ChillPlayz&show_icons=true&theme=onedark)
