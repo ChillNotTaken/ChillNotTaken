@@ -1,5 +1,5 @@
 ### Hi there 👋
-![welcome](https://i.postimg.cc/W34VGLTN/Chill8.png)<a href="https://discord.gg/VSugGX7">
+![welcome](https://imgur.com/H9UZzlz)<a href="https://discord.gg/jp8et9xU56">
     <img src="https://user-images.githubusercontent.com/59381835/92191514-d649ad80-ee18-11ea-9bc4-e95c7a122a99.png" alt="Discord" width="80"/>
   </a>
   <a href="https://www.youtube.com/channel/UC9xBpEHyRxZlOKmRK7nDWvw/videos?view_as=subscriber">
@@ -17,7 +17,7 @@
 
 ### Jobs
 Currently coding discord bots for nitro. Send me a message on discord to discuss.<br>
-(Reputation) -> [discord.com](https://discord.gg/VSugGX7)<br />
+(Reputation) -> [discord.com](https://discord.gg/jp8et9xU56)<br />
 
 #### About my discord bot
 My discord bot's name is MusicTime. MusicTime has commands ranging from vibing music to as serious features.
