@@ -17,6 +17,7 @@ Currently coding discord bots for nitro. Send me a message on discord to discuss
 
 #### About my discord bot
 I made [SmartWiki](https://dsc.gg/aiclever) Discord Bot And it got verified by discord....
+
 SmartWiki is an advanced discord bot with iver 100+ commands and with plenty of features!
 
 ### Languages and Tools:
