@@ -2,11 +2,8 @@
 ## Hello! I'm Chll! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <br> Someone said I am a verified bot developer on discord <br/>
-<img align="left" alt="ChillCord | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-
 [Add me on Discord!<img align="left" alt="ChilRage#9999 | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/discord.svg" />](https://dsc.bio/chillrage)
-
-[Subscribe on youtube?](https://www.youtube.com/channel/UC9xBpEHyRxZlOKmRK7nDWvw)
+[Subscribe on youtube?<img align="left" alt="ChillCord | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UC9xBpEHyRxZlOKmRK7nDWvw)
 
 ## About Me
 - 🌱 I’m currently learning everything🤣
