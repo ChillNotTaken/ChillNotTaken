@@ -1,5 +1,5 @@
 # Chill Here!
-## Hello! I'm Chll! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Hello! I'm Chill! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <br> Someone said I am a verified bot developer on discord <br/>
 [Add me on Discord!<img align="left" alt="ChilRage#9999 | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/discord.svg" />](https://dsc.bio/chillrage)
